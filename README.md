@@ -16,7 +16,7 @@ Shell injection is a critical security vulnerability that occurs when an attacke
 ## How to Use
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/shell-injection-simulation.git
+   git clone https://github.com/farrosfr/shell-injection-simulation.git
    ```
 
 2. Navigate to the project directory:
